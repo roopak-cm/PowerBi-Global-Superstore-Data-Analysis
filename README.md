@@ -1,7 +1,9 @@
 # PowerBi : Global Superstore Data Analysis
 
 Total Sales - The overall revenue generated.
+
 Total Profit - The total profit made from all sales.
+
 Total Products - The number of distinct products sold.
 Total Countries - The number of countries where products were sold.
 Orders in Each Year - Tracking the number of orders per year can be a KPI to measure growth or seasonality trends.
