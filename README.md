@@ -1,4 +1,4 @@
-#Power BI: Global Superstore Data Analysis
+# Power BI: Global Superstore Data Analysis
 
 This Power BI project provides a comprehensive analysis of sales data from a fictional superstore. The dashboard visualizes key metrics, offering valuable insights into business performance.
 Key Metrics:
